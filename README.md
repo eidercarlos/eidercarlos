@@ -8,7 +8,7 @@
 <li>🔭 I’m currently looking for a new remote job abroad.</li>
 <li>🧐 Learning about <strong>Microfrontend</strong>, <strong>NGSX</strong>, <strong>Node.js</strong> and everything about the <strong>MEAN</strong> stack.</li>
 <li>💬 Ping me about <strong>Angular 2+, PHP, ASP.NET/MVC and C#</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.
+<li>📙 Check out my <a href="#">resume</a>.
 </ul>
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
@@ -22,5 +22,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p> -->
