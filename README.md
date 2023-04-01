@@ -10,17 +10,64 @@
 <li>💬 Ping me about <strong>Angular 2+, PHP, ASP.NET/MVC and C#</strong>.</li>
 <li>📙 Check out my <a href="#">resume</a>.
 </ul>
-<h2>🚀 Some Tools I Use</h2>
+&nbsp;
+
+## 🧰 Languages and Tools
 <p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt=".NET" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="25" height="25" />
+<a href="https://www.php.net/" rel="nofollow"> 
+    <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50" />
+</a>
+<a href="https://laravel.com/" rel="nofollow"> 
+    <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50">
+</a>
+<a href="https://angular.io/" rel="nofollow">
+    <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular2+" width="50" height="50" />
+</a>
+<a href="https://www.typescriptlang.org/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
+</a>
+<a href="https://www.javascript.com/" rel="nofollow">    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
+</a>
+<a href="https://dotnet.microsoft.com/" rel="nofollow"> 
+    <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="50" height="50" />
+</a>
+<a href="https://www.mysql.com/" rel="nofollow"> 
+    <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50" />
+</a>
+<a href="https://nodejs.org/" rel="nofollow"> 
+    <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50" />
+</a>
+<a href="https://www.docker.com/" rel="nofollow">
+    <img style="background-color:white;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" />
+</a>
+<a href="https://getbootstrap.com" rel="nofollow"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" style="background-color:white;"> 
+</a>
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img style="background-color:white" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
+</a>
+<a href="https://www.w3schools.com/html/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" style="background-color:white;">
+</a>
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="background-color:white">
+</a>
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="background-color:white">
+</a>
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/c801bc4030f308500f29b695f0771ba313b3b2088c91d06152b5cc5a050e3127/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6172696164622f6d6172696164622d69636f6e2e737667" alt="mariadb" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="background-color:white;">
+</a>
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="50" height="50" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="background-color:white;">
+</a>
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="background-color:white;">
+</a>
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="background-color:white;">
+</a>
 </p>
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
 <p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p> -->
