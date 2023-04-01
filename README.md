@@ -1,14 +1,16 @@
 <h2>Hey 👋, I'm <a href="#">Eider</a></h2>
-<p>I'm a Full Stack software engineer with a master degree in computing with interest and experience with web development using technologies like PHP, Laravel, C#, ASP.NET, Angular 2+, TypeScript, JQuery and SQL Relational Databases.
+<p>I'm a Full Stack software engineer with a master degree in computing with interest and experience with web development, using technologies like PHP, Laravel, C#, ASP.NET, Angular 2+, TypeScript, JQuery and SQL Relational Databases.
 
 <a href="https://www.linkedin.com/in/eider-carlos-44445245/"><img src="https://img.shields.io/badge/-@eidercarlos-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/eider-carlos-44445245/" alt="LinkedIn Badge"></a></p>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<p>
+<img src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I’m currently looking for a new remote job abroad.</li>
-<li>🧐 Learning about <strong>Microfrontend</strong>, <strong>NGSX</strong>, <strong>Node.js</strong> and everything about the <strong>MEAN</strong> stack.</li>
+<li>🔭 I'm currently looking for a new remote job abroad.</li>
+<li>🧐 Learning about <strong>Microfrontend</strong>, <strong>Reactive State Management</strong>, <strong>Node.js</strong> and all techs from the <strong>MEAN</strong> stack.</li>
 <li>💬 Ping me about <strong>Angular 2+, PHP, ASP.NET/MVC and C#</strong>.</li>
-<li>📙 Check out my <a href="#">resume</a>.
+<li>📙 Check out my <a href="https://docs.google.com/document/d/1gJ97rpp1FhcIj5kTwS02VVv2OBuSyvpE4uGOVC_RHhY/edit?usp=sharing">resume</a>.
 </ul>
 &nbsp;
 
@@ -53,21 +55,31 @@
 <a href="https://www.w3schools.com/css/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="background-color:white">
 </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow">
+<a href="https://www.linux.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50" style="background-color:white">
 </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow">
+<a href="https://mariadb.org/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/c801bc4030f308500f29b695f0771ba313b3b2088c91d06152b5cc5a050e3127/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6172696164622f6d6172696164622d69636f6e2e737667" alt="mariadb" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" style="background-color:white;">
 </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow">
+<a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
     <img src="https://camo.githubusercontent.com/42dfd0950d93092d82d677877fe87d5bab1e2acccc1110bf0f9dd755988ccb7e/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667" alt="mssql" width="50" height="50" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" style="background-color:white;">
 </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow">
+<a href="https://www.postgresql.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50" style="background-color:white;">
 </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow">
+<a href="https://cloud.google.com/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" style="background-color:white;">
 </a>
+<a href="https://unity.com/" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity3d" width="50" height="50" style="background-color:white;">
+</a>
+<a href="https://helpx.adobe.com/xd/get-started.html" rel="nofollow">
+    <img src="https://www.svgrepo.com/show/452151/adobe-xd.svg" alt="adobe-xd" width="50" height="50" style="background-color:white;">
+</a>
 </p>
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=spiderpig86&show_icons=true&count_private=true" alt="spiderpig86" />
-<p><img src="https://visitor-badge.glitch.me/badge?page_id=Spiderpig86.Spiderpig86" alt="visitors"></p> -->
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=eidercarlos&show_icons=true&count_private=true" alt="eidercarlos" />
+</p>
+<p>
+    <img src="https://visitor-badge.glitch.me/badge?page_id=eidercarlos.eidercarlos" alt="visitors">
+</p>

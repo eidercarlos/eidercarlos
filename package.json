@@ -1,5 +1,5 @@
 {
-  "name": "spiderpig86",
+  "name": "eidercarlos",
   "version": "1.0.0",
   "description": "Personal README.",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Spiderpig86/Spiderpig86.git"
+    "url": "git+https://github.com/eidercarlos/eidercarlos.git"
   },
   "author": "Stanley Lim",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Spiderpig86/Spiderpig86/issues"
+    "url": "https://github.com/eidercarlos/eidercarlos/issues"
   },
-  "homepage": "https://github.com/Spiderpig86/Spiderpig86#readme",
+  "homepage": "https://github.com/eidercarlos/eidercarlos#readme",
   "dependencies": {
     "axios": "^0.21.1",
     "markdown-it": "^11.0.0",
