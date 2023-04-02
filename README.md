@@ -22,6 +22,9 @@
 <a href="https://laravel.com/" rel="nofollow"> 
     <img src="icons/laravel-logo-svgrepo-com.svg" alt="laravel" width="50" height="50">
 </a>
+<a href="https://cakephp.org/" rel="nofollow"> 
+    <img src="icons/cakephp-svgrepo-com.svg" alt="cakephp" width="50" height="50">
+</a>
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> 
     <img src="icons/csharp-svgrepo-com.svg" alt="csharp" width="50" height="50">
 </a>
