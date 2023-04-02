@@ -22,6 +22,9 @@
 <a href="https://laravel.com/" rel="nofollow"> 
     <img src="icons/laravel-logo-svgrepo-com.svg" alt="laravel" width="50" height="50">
 </a>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow"> 
+    <img src="icons/csharp-svgrepo-com.svg" alt="csharp" width="50" height="50">
+</a>
 <a href="https://angular.io/" rel="nofollow">
     <img  src="icons/angular-svgrepo-com.svg" alt="Angular2+" width="50" height="50" />
 </a>
@@ -72,6 +75,9 @@
 </a>
 <a href="https://cloud.google.com/" rel="nofollow">
     <img src="icons/google-cloud-svgrepo-com.svg    " alt="gcp" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+</a>
+<a href="https://www.terraform.io/" rel="nofollow">
+    <img src="icons/terraform-svgrepo-com.svg" alt="terraform" width="50" height="50" data-canonical-src="icons/terraform-svgrepo-com.svg">
 </a>
 <a href="https://unity.com/" rel="nofollow">
     <img src="icons/unity-svgrepo-com.svg" alt="unity3d" width="50" height="50">
