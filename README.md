@@ -16,62 +16,62 @@
 
 ## 🧰 Languages and Tools
 <p align="left">
-<a target="_blank" href="https://www.php.net/" rel="nofollow"> 
-    <img src="icons/php2-svgrepo-com.svg" alt="PHP" width="50" height="50" />
+<a href="https://www.php.net/" rel="nofollow"> 
+    <img src="icons/php-svgrepo-com.svg" alt="PHP" width="50" height="50" />
 </a>
-<a target="_blank" href="https://laravel.com/" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="50" height="50">
+<a href="https://laravel.com/" rel="nofollow"> 
+    <img src="icons/laravel-logo-svgrepo-com.svg" alt="laravel" width="50" height="50">
 </a>
-<a target="_blank" href="https://angular.io/" rel="nofollow">
-    <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular2+" width="50" height="50" />
+<a href="https://angular.io/" rel="nofollow">
+    <img  src="icons/angular-svgrepo-com.svg" alt="Angular2+" width="50" height="50" />
 </a>
-<a target="_blank" href="https://www.typescriptlang.org/" rel="nofollow">
+<a href="https://www.typescriptlang.org/" rel="nofollow">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50" />
 </a>
-<a target="_blank" href="https://www.javascript.com/" rel="nofollow">    
+<a href="https://www.javascript.com/" rel="nofollow">    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </a>
-<a target="_blank" href="https://dotnet.microsoft.com/" rel="nofollow"> 
+<a href="https://dotnet.microsoft.com/" rel="nofollow"> 
     <img src="icons/dotnet-svgrepo-com.svg" alt=".NET" width="50" height="50" />
 </a>
-<a target="_blank" href="https://www.mysql.com/" rel="nofollow"> 
+<a href="https://www.mysql.com/" rel="nofollow"> 
     <img src="icons/mysql-logo-svgrepo-com.svg" alt="mysql" width="50" height="50" />
 </a>
-<a target="_blank" href="https://nodejs.org/" rel="nofollow"> 
+<a href="https://nodejs.org/" rel="nofollow"> 
     <img  src="icons/nodejs-svgrepo-com.svg" alt="nodejs" width="50" height="50" />
 </a>
-<a target="_blank" href="https://www.docker.com/" rel="nofollow">
+<a href="https://www.docker.com/" rel="nofollow">
     <img src="icons/docker-logo-svgrepo-com.svg" alt="Docker" width="50" height="50" />
 </a>
-<a target="_blank" href="https://getbootstrap.com" rel="nofollow"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50" > 
+<a href="https://getbootstrap.com" rel="nofollow"> 
+    <img src="icons/bootstrap-svgrepo-com.svg" alt="bootstrap" width="50" height="50" > 
 </a>
-<a target="_blank" href="https://www.w3schools.com/css/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50" />
+<a href="https://www.w3schools.com/css/" rel="nofollow">
+    <img src="icons/css-3-svgrepo-com.svg" alt="css3" width="50" height="50" />
 </a>
-<a target="_blank" href="https://www.w3schools.com/html/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50" >
+<a href="https://www.w3schools.com/html/" rel="nofollow">
+    <img src="icons/html5-01-svgrepo-com.svg" alt="html5" width="50" height="50" >
 </a>
-<a target="_blank" href="https://www.w3schools.com/css/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" >
+<a href="https://git-scm.com/" rel="nofollow">
+    <img src="icons/git-svgrepo-com.svg" alt="git" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" >
 </a>
-<a target="_blank" href="https://www.linux.org/" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50">
+<a href="https://www.linux.org/" rel="nofollow">
+    <img src="icons/linux-svgrepo-com.svg" alt="linux" width="50" height="50">
 </a>
-<a target="_blank" href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
+<a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
     <img src="icons/msql-server-svgrepo-com.svg" alt="mssql" width="50" height="50" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" >
 </a>
-<a target="_blank" href="https://www.postgresql.org/" rel="nofollow">
+<a href="https://www.postgresql.org/" rel="nofollow">
     <img src="icons/postgresql-svgrepo-com.svg" alt="postgresql" width="50" height="50">
 </a>
-<a target="_blank" href="https://cloud.google.com/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/582944f6627732531ce1a2e20ad43538d1896e16a5f159ea28fd137dbb8e798a/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676f6f676c655f636c6f75642f676f6f676c655f636c6f75642d69636f6e2e737667" alt="gcp" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+<a href="https://cloud.google.com/" rel="nofollow">
+    <img src="icons/google-cloud-svgrepo-com.svg    " alt="gcp" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
 </a>
-<a target="_blank" href="https://unity.com/" rel="nofollow">
+<a href="https://unity.com/" rel="nofollow">
     <img src="icons/unity-svgrepo-com.svg" alt="unity3d" width="50" height="50">
 </a>
-<a target="_blank" href="https://helpx.adobe.com/xd/get-started.html" rel="nofollow">
-    <img src="https://www.svgrepo.com/show/452151/adobe-xd.svg" alt="adobe-xd" width="50" height="50" >
+<a href="https://helpx.adobe.com/xd/get-started.html" rel="nofollow">
+    <img src="icons/adobe-xd-logo-svgrepo-com.svg" alt="adobe-xd" width="50" height="50" >
 </a>
 </p>
 &nbsp;
