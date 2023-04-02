@@ -31,11 +31,11 @@
 <a href="https://www.javascript.com/" rel="nofollow">    
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50" />
 </a>
+<a href="https://jquery.com/" rel="nofollow">    
+    <img src="icons/jquery-svgrepo-com.svg" alt="jquery" width="50" height="50" />
+</a>
 <a href="https://dotnet.microsoft.com/" rel="nofollow"> 
     <img src="icons/dotnet-svgrepo-com.svg" alt=".NET" width="50" height="50" />
-</a>
-<a href="https://www.mysql.com/" rel="nofollow"> 
-    <img src="icons/mysql-logo-svgrepo-com.svg" alt="mysql" width="50" height="50" />
 </a>
 <a href="https://nodejs.org/" rel="nofollow"> 
     <img  src="icons/nodejs-svgrepo-com.svg" alt="nodejs" width="50" height="50" />
@@ -58,11 +58,17 @@
 <a href="https://www.linux.org/" rel="nofollow">
     <img src="icons/linux-svgrepo-com.svg" alt="linux" width="50" height="50">
 </a>
+<a href="https://www.mysql.com/" rel="nofollow"> 
+    <img src="icons/mysql-logo-svgrepo-com.svg" alt="mysql" width="50" height="50" />
+</a>
 <a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
     <img src="icons/msql-server-svgrepo-com.svg" alt="mssql" width="50" height="50" data-canonical-src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" >
 </a>
 <a href="https://www.postgresql.org/" rel="nofollow">
     <img src="icons/postgresql-svgrepo-com.svg" alt="postgresql" width="50" height="50">
+</a>
+<a href="https://www.oracle.com/br/database/technologies/appdev/plsql.html" rel="nofollow">
+    <img src="icons/plsql-svgrepo-com.svg" alt="plsql" width="50" height="50">
 </a>
 <a href="https://cloud.google.com/" rel="nofollow">
     <img src="icons/google-cloud-svgrepo-com.svg    " alt="gcp" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
