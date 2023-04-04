@@ -1,5 +1,5 @@
 <h2>Hey 👋, I'm <a href="#">Eider</a></h2>
-<p>I'm a Full Stack software engineer with a master degree in computing with interest and experience with web development, using technologies like PHP, Laravel, C#, ASP.NET, Angular 2+, TypeScript, JQuery and SQL Relational Databases.
+<p>I'm a Full Stack software engineer with a master degree in computing with interest and experience in web development, using technologies like PHP, Laravel, C#, ASP.NET, Angular 2+, TypeScript, JQuery and SQL Relational Databases.
 
 <a href="https://www.linkedin.com/in/eider-carlos-44445245/"><img src="https://img.shields.io/badge/-@eidercarlos-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/eider-carlos-44445245/" alt="LinkedIn Badge"></a></p>
 <p>
@@ -7,7 +7,7 @@
 </p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I'm currently looking for a new remote job abroad.</li>
+<li>🔭 I'm currently looking for a new remote job.</li>
 <li>🧐 Learning about <strong>Microfrontend</strong>, <strong>Reactive State Management</strong>, <strong>Node.js</strong> and all techs from the <strong>MEAN</strong> stack.</li>
 <li>💬 Ping me about <strong>Angular 2+, PHP, ASP.NET/MVC and C#</strong>.</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1gJ97rpp1FhcIj5kTwS02VVv2OBuSyvpE4uGOVC_RHhY/edit?usp=sharing">resume</a>.
