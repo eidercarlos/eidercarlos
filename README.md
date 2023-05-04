@@ -77,7 +77,10 @@
     <img src="icons/plsql-svgrepo-com.svg" alt="plsql" width="50" height="50">
 </a>
 <a href="https://cloud.google.com/" rel="nofollow">
-    <img src="icons/google-cloud-svgrepo-com.svg    " alt="gcp" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+    <img src="icons/google-cloud-svgrepo-com.svg" alt="gcp" width="50" height="50" data-canonical-src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg">
+</a>
+<a href="https://aws.amazon.com/" rel="nofollow">
+    <img src="icons/amazon-web-services-logo-svgrepo-com.svg" alt="aws" width="50" height="50">
 </a>
 <a href="https://www.terraform.io/" rel="nofollow">
     <img src="icons/terraform-svgrepo-com.svg" alt="terraform" width="50" height="50" data-canonical-src="icons/terraform-svgrepo-com.svg">
@@ -95,6 +98,6 @@
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=eidercarlos&show_icons=true&count_private=true" alt="eidercarlos" />
 </p>
-<p>
+<!-- <p>
     <img src="https://visitor-badge.glitch.me/badge?page_id=eidercarlos.eidercarlos" alt="visitors">
-</p>
+</p> -->
