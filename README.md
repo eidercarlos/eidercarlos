@@ -7,7 +7,6 @@
 </p>
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
-<li>🔭 I'm currently looking for a new remote job.</li>
 <li>🧐 Learning about <strong>Microfrontend</strong> and <strong>Reactive State Management</strong>.</li>
 <li>💬 Ping me about <strong>Angular 2+, PHP, ASP.NET/MVC and C#</strong>.</li>
 <li>📙 Check out my <a href="https://docs.google.com/document/d/1gJ97rpp1FhcIj5kTwS02VVv2OBuSyvpE4uGOVC_RHhY/edit?usp=sharing">resume</a>.
